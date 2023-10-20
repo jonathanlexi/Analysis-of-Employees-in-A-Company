@@ -1,4 +1,4 @@
-# Analysis Data 
+# Analysis of Employees in A Company
 ## Get Answers and Questions from Data
 Menggunakan library pandas, pertanyaan dijawab berdasarkan data menggunakan fungsi groupby, agregasi, pengurutan data (sort_values), penghitungan nilai muncul (value_counts), dan operasi lainnya.
 ## Exploratory Data Analysis and Data Visualization
